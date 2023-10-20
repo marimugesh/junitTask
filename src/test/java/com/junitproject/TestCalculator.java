@@ -29,7 +29,7 @@ public class TestCalculator {
 	}
 	@After
 	public void printBye() {
-		System.out.println("Bye Bye");
+		System.out.println("Bye Bye Bye");
 	}
 
 }
